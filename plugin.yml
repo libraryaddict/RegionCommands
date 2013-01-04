@@ -1,0 +1,8 @@
+name: ARegionCommands
+main: me.libraryaddict.RegionCommand.Main
+author: libraryaddict
+version: 1.0
+depend: [WorldGuard]
+commands:
+  regioncommand:
+    aliases: [rc, regioncommands]
